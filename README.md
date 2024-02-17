@@ -24,29 +24,39 @@ Welcome to our MERN-based e-commerce application! This project is designed to pr
 
 ### Home Page
 ![Screenshot (35)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/1db85a38-b455-4187-9328-d2a510549809)
+![Screenshot (24)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/55cf82c9-bd6f-4e6d-9add-a6f1a9baa77a)
 
-![Screenshot (24)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/1fe21055-39e1-4f04-81ba-55816e52acb7)
 
 
 ### Product Page
-![Screenshot (25)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/b57a201e-d959-4379-9147-0766e296d178)
+![Screenshot (25)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/588ad31b-611d-44ca-99cb-8084dafa6530)
+
 ### Register Page
-![Screenshot (26)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/873c539e-91ea-4610-bd3c-be20941ab4b6)
+![Screenshot (26)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/e3efa259-91bb-49c0-996b-c1b75d967ff1)
+
 ### Login Page
-![Screenshot (27)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/7d513b26-a011-4cde-adae-c90cb17010bf)
+![Screenshot (27)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/dca1e8f0-cfb6-40df-a8a1-843ce690998c)
+
 ### Add To Cart Page
-![Screenshot (28)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/67c7b0af-8277-4aa5-a1f2-42047aa9484f)
-![Screenshot (29)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/bd737269-86f9-49a2-8c1a-0458ef88da5b)
+![Screenshot (28)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/6d5b9afc-a54e-43e7-bfdd-2efaac171987)
+![Screenshot (29)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/a5f76b90-d9f7-4f9d-bcaf-5d0c5b6cbcce)
+
+
 ### About page
-![Screenshot (30)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/64ddd9c4-0f62-46b6-8c5d-87932327264b)
+![Screenshot (30)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/f358dd9f-5836-4449-8f37-80ad1c653afc)
+
 ### ContactUs Page
-![Screenshot (31)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/6829173b-5dd4-4a1a-88c2-5d5602ba2149)
+![Screenshot (31)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/0edac396-418c-47b4-8089-07421c07240d)
+
 ### Policy and Privacy
-![Screenshot (32)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/198bc662-6604-4821-8fc1-28555e21d088)
+![Screenshot (32)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/14bd6e8a-081f-410d-8221-a756b1aec7d6)
+
 ### Categories
-![Screenshot (33)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/69198289-0d7e-4968-9765-da5d70b6ce61)
+![Screenshot (33)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/c77a403c-e004-47f5-ac4e-f0464771c266)
+
 ### Categories
-![Screenshot (34)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/56b47690-39d9-4652-87d5-8fd0ae97848c)
+![Screenshot (34)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/a45c30e4-c1c3-4cdf-af61-fd261c7b10e0)
+
 
 
 
