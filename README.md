@@ -23,6 +23,8 @@ Welcome to our MERN-based e-commerce application! This project is designed to pr
 - **Deployment**: Cyclic
 
 ### Home Page
+![Screenshot (35)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/1db85a38-b455-4187-9328-d2a510549809)
+
 ![Screenshot (24)](https://github.com/Preeti980/Ecommerce-app/assets/114865373/1fe21055-39e1-4f04-81ba-55816e52acb7)
 
 
